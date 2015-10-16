@@ -1,0 +1,17 @@
+附近用户
+URL: https://chachat.com/api/v1/user/nearby?lon=xxxx&lat=xxxx
+
+注册用户
+URL: https://chachat.com/api/v1/user/register?id=xxxx&name=xxxx&gender=xxxx
+
+查询用户信息
+URL: https://chachat.com/api/v1/user/<userid>
+
+获取用户token
+URL: https://chachat.com/api/v1/user/token/<userid>
+
+添加好友
+URL: https://chachat.com/api/v1/friendship/add/<userid>/<friendid>
+
+删除好友
+URL: https://chachat.com/api/v1/friendship/delete/<userid>/<friendid>
